@@ -1,0 +1,12 @@
+{
+  "name": "dictionary-app-backend",
+  "version": "1.0.0",
+  "description": "Coursework. From the discipline \"Programming\". On the topic: \"Online dictionary\"",
+  "main": "index.js",
+  "repository": "https://github.com/Arsaide/dictionary-app-backend.git",
+  "author": "Kirill Arsaide",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
