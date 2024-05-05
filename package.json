@@ -4,7 +4,8 @@
   "description": "Coursework. From the discipline \"Programming\". On the topic: \"Online dictionary\"",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc -w",
+    "dev": "nodemon .\\dist\\index.js",
     "start:dev": "nodemon ./src/index.ts",
     "start": "node src/index.ts"
   },
